@@ -1,1 +1,1 @@
-# phase-resolved-wave-rendering
+# Configurable Photo-realistic Ocean Wave Rendering
